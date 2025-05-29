@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Start Guide
 To begin your journey with **Zorara Executor**, simply follow these straightforward steps:
-1. **[![Download Zorara Executor](https://img.shields.io/badge/Download-Zoraraa%20Executor-blueviolet)](../../releases)**
+1. **[![Download Zorara Executor](https://img.shields.io/badge/Download-Zorara%20Executor-blueviolet)](../../releases)**
 2. Extract the contents of the downloaded ZIP file to a location of your choice on your device.
 
 **Overview of Zorara Executor:**  
