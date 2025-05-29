@@ -1,4 +1,4 @@
-# 🌟 ** Zorara Executor - The Premier Roblox Script Executor** [![Download Zorara Executor](https://img.shields.io/badge/Download-Zorara%20Executor-blueviolet)](../../releases)
+# 🌟 **Zorara Executor - The Premier Roblox Script Executor** [![Download Zorara Executor](https://img.shields.io/badge/Download-Zorara%20Executor-blueviolet)](../../releases)
 
 ## 🚀 Quick Start Guide
 To begin your journey with **Zorara Executor**, simply follow these straightforward steps:
