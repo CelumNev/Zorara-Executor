@@ -10,7 +10,7 @@ To begin your journey with **Zorara Executor**, simply follow these straightforw
 
 **Keywords:** Roblox script executor, advanced scripting tool, Roblox exploits, modding utilities, script execution engine, game enhancements, Roblox cheat tools, modding Roblox 2025.
 
-![Zorara Executor Animation](https://github.com/Kff/Zorara/blob/main/assets/solara.gif)
+![Zorara Executor Preview](/assets/zorara.jpg)
 
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
